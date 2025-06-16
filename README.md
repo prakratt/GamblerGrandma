@@ -1,2 +1,2 @@
-# gambler_grandma
-modelling the game of tambola
+# Gambler Grandma
+Modelling the game of Tambola using probability and simulating it using code to verify results.
